@@ -3,6 +3,8 @@
     "description": "PHP Client for Restoo API Server",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
+    "minimum-stability":"1.0.0",
     "authors": [
         {
             "name": "Simon Jenny",
