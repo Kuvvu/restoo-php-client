@@ -1,6 +1,6 @@
 {
-    "name": "kuvvu/restoo-client",
-    "description": "Client for Restoo API Server",
+    "name": "kuvvu/restoo-php-client",
+    "description": "PHP Client for Restoo API Server",
     "type": "library",
     "license": "MIT",
     "authors": [
