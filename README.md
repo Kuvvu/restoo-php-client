@@ -10,7 +10,9 @@ composer require kuvvu/restoo-php-client
 
 ## Usage
 
-```
+Since Restoo is basically just a wrapper for MEDOO you can use the same Syntax as you would use for MEDOO (http://medoo.in)
+
+```php
 <?php
 
 require '../vendor/autoload.php';
