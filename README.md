@@ -5,7 +5,7 @@
 Install with Composer
 
 ```
-composer require kuvvu/restoo-php-client
+composer require kuvvu/restoo-php-client:dev-master
 ```
 
 ## Usage
